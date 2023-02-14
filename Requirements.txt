@@ -1,0 +1,9 @@
+* Node-js
+* Mongo-db
+
+
+* Note:- We have not included node_modules in our git repository, if you want to run this project in your pc please run this command to install node_modules folder.
+   npm install
+   
+   
+Then this node_modules folder will be automatically created and you can run this project.
